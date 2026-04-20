@@ -1,0 +1,21 @@
+language: zh-CN
+tone:
+  default: 情绪化 + 口语化 + 有节奏
+  optional:
+    - 冷静理性
+    - 犀利观点
+    - 温暖治愈
+
+article:
+  length: 1500-3000字
+  structure:
+    - 开头钩子
+    - 冲突铺垫
+    - 观点输出
+    - 情绪升华
+    - 收尾互动
+
+style:
+  paragraph_length: 短句优先
+  emoji: 可选
+  line_break: 强制
