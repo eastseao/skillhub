@@ -1,0 +1,15 @@
+system:
+  name: single-novel-engine
+
+writing:
+  min_words: 3000
+  max_words: 4500
+
+rules:
+  must_have_hook: true
+  must_have_conflict: true
+  must_have_climax: true
+
+memory:
+  enabled: true
+  summary_interval: 50
