@@ -1,0 +1,22 @@
+{
+  "natural": {
+    "tone": "自然、松弛、有轻微停顿",
+    "features": ["短句", "少量语气词"]
+  },
+  "casual": {
+    "tone": "聊天感强",
+    "features": ["口语", "跳跃", "随意"]
+  },
+  "sharp": {
+    "tone": "直接、干脆",
+    "features": ["短句", "观点明确"]
+  },
+  "emotional": {
+    "tone": "情绪明显",
+    "features": ["共鸣", "主观表达"]
+  },
+  "professional": {
+    "tone": "行业感",
+    "features": ["清晰但不模板"]
+  }
+}

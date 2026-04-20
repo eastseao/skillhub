@@ -1,0 +1,7 @@
+rewrite_strength: 4
+style: natural
+sentence_variation: true
+add_human_noise: true
+break_symmetry: true
+max_length: 2000
+language: zh
