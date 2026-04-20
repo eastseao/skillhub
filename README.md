@@ -1,4 +1,4 @@
-# Wechat-SkillHub 微信公众号工具集-SlawSkill
+# Wechat-SkillHub 微信公众号工具集-ClawSkill
 
 <p align="center">
   <img src="https://img.shields.io/badge/微信公众号-AI内容工具集-blue?style=flat-square" alt="WeChat SkillHub">
